@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: 
+url: http://aybtotal.com.ve
 
 
 # Jekyll configuration
@@ -32,21 +32,21 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: A y B Total
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: aybtotal@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: ayblibreria
+  facebook: aybtotal
+  github: aybtotal
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
   flickr: #username
   tumblr: #username
   google:
-    plus: #username
-    analytics:
+    plus: +AybtotalVe
+    analytics: UA-53670971-1
     verify:
     ad-client:
     ad-slot: 
