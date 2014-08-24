@@ -302,8 +302,8 @@ body.search-overlay {
 }
 body.search-overlay:after {
 	content: '';
-	background-color: lighten($black,5);
-	background-color: rgba($black,.95);
+	background-color: lighten($text-color,5);
+	background-color: rgba($text-color,.95);
 	width: 100%;
 	min-height: 100%;
 	height: 100%;

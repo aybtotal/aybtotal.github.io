@@ -1,11 +1,13 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: la Librería Digital
+locale: es_VE
+description: Somos Librería y Papelería, tenemos todo para tu oficina, escolar, computación regalos y mucho mas....Visitanos.
 logo: site-logo.png
 search: true
 url: http://aybtotal.com.ve
+#url: http://localhost:4000
+default_locale: "es-VE"
 
 
 # Jekyll configuration
@@ -32,10 +34,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: A y B Total
+  name: A & B Total, c.a.
   avatar: bio-photo.jpg
   email: aybtotal@gmail.com
-  disqus-shortname:
+  disqus-shortname: aybtotal
   twitter: ayblibreria
   facebook: aybtotal
   github: aybtotal
@@ -45,7 +47,7 @@ owner:
   flickr: #username
   tumblr: #username
   google:
-    plus: +AybtotalVe
+    plus: AybtotalVe
     analytics: UA-53670971-1
     verify:
     ad-client:

@@ -1,16 +1,19 @@
 # Site navigation links
 
-- title: About
+- title: Nosotros
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Noticias
+  url: /news/
 
-- title: Blog
-  url: /blog/
+- title: Promociones
+  url: /promo/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Bolsa de Empleo
+  url: /jobsite/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Horario
+  url: /calendar/
+  
+- title: Contactenos
+  url: /contacts/

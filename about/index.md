@@ -1,26 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Nosotros
+excerpt: "Te invitamos a formar parte de nuestra distinguida clientela."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: corporate-image.jpg
+  credit: Alexander Salas
+  creditlink: http://alexandersalas.name/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+La Empresa **A&B Total C.A.**, la Librería Digital, tiene el gusto de invitarlo a formar parte de nuestra distinguida clientela ofreciendo una extensa gama de productos y servicios a los mejores precios del mercado al mismo tiempo la mejor atención personalizada.
 
-## So Simple Theme is all about:
+**A&B Total** ofrece una gran variedad en Artículos de Oficina y Papelería, carpetas, sobres, papel para fotocopiadora, archivadores, clips, libretas de notas, engrapadoras, papel para fax, calculadoras, bolígrafos, lápices, resaltadores, pizarras acrílicas, cartuchos y toner, todo lo relacionado con impresoras y copiadoras marcas HP, Canon, Panasonic, entre otros. En el área de artículos de oficina contamos con una amplia gama de productos que se adaptan a su medida y necesidad teniendo la oportunidad de elegir entre las diferentes marcas, entre ellos tenemos Mongol, Faber Castell, Kores, Ofica, Solita, Iteca, Caribe, Mayka, Norma, AceClipper, etc.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+También ofrece los servicios en el área de reproducción de copias, encuadernación, plastificación e igualmente tenemos diferentes modelos y marcas en bolsos, morrales, juguetes, equipos de computación, y mucho más. Nuestra empresa cuenta con una gama de productos variados acorde a la disposición y necesidad de todos nuestros clientes.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Envíe su solicitud de Cotización y compruebe la rapidez de respuesta y los mejores precios del mercado; despacho en toda la ciudad.

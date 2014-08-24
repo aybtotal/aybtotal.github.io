@@ -1,13 +1,13 @@
 {
-  "name": "so-simple-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/so-simple-theme/",
+  "name": "aybtotal-theme",
+  "author": "Alexander Salas <a.salas@ieee.org>",
+  "homepage": "http://aybtotal.com.ve/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+    "url": "git://github.com/aybtotal/aybtotal.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/so-simple-theme/issues"
+    "url": "https://github.com/aybtotal/aybtotal.github.io/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
