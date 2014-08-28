@@ -9,7 +9,7 @@ image:
   creditlink: http://alexandersalas.name/
 ---
 ### Asistente Administrativo [OCUPADO]
-Se solicita Asistente Administrativo, ambos sexos, experiencia mínima 3 años, conocimientos en cuentas por pagar, retenciones, impuestos, nómina. Enviar síntesis al corre electrónico [aybtotaladm@gmail.com](mailto:aybtotaladm@gmail.com)
+Se solicita Asistente Administrativo, ambos sexos, experiencia mínima 3 años, conocimientos en cuentas por pagar, retenciones, impuestos, nómina. Enviar síntesis al corre electrónico [aybcurri@gmail.com](mailto:aybcurri@gmail.com)
 
 ### Vendedores [VACANTE] 
-Se solicita jovenes para el area de ventas, ambos sexos. Enviar síntesis al corre electrónico [aybtotaladm@gmail.com](mailto:aybtotaladm@gmail.com)
+Se solicita jovenes para el area de ventas, ambos sexos. Enviar síntesis al corre electrónico [aybcurri@gmail.com](mailto:aybcurri@gmail.com)
