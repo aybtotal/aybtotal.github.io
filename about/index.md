@@ -20,4 +20,4 @@ Envíe su solicitud de Cotización y compruebe la rapidez de respuesta y los mej
 
 Somos Librería y Papelería, tenemos todo para tu oficina, escolar, computación regalos y mucho mas.
 
-...Visitanos. Y creadores del #LunesLibros
+...Visitanos. 
