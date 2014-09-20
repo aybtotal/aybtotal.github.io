@@ -18,4 +18,6 @@ También ofrece los servicios en el área de reproducción de copias, encuaderna
 
 Envíe su solicitud de Cotización y compruebe la rapidez de respuesta y los mejores precios del mercado; despacho en toda la ciudad.
 
-Somos Librería y Papelería, tenemos todo para tu oficina, escolar, computación regalos y mucho mas....Visitanos. Y creadores del #LunesLibros
+Somos Librería y Papelería, tenemos todo para tu oficina, escolar, computación regalos y mucho mas.
+
+...Visitanos. Y creadores del #LunesLibros
