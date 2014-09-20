@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Nosotros
-excerpt: "Te invitamos a formar parte de nuestra distinguida clientela."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: corporate-image.jpg
+excerpt: Te invitamos a formar parte de nuestra distinguida clientela.
+modified: {}
+image: 
+  feature: "corporate-image.jpg"
   credit: Alexander Salas
-  creditlink: http://alexandersalas.name/
+  creditlink: "http://alexandersalas.name/"
+published: true
 ---
 
 La Empresa **A&B Total C.A.**, la Librería Digital, tiene el gusto de invitarlo a formar parte de nuestra distinguida clientela ofreciendo una extensa gama de productos y servicios a los mejores precios del mercado al mismo tiempo la mejor atención personalizada.
