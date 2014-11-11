@@ -2,11 +2,12 @@
 layout: page
 title: Ubicación y Datos de Contacto
 excerpt: "Estamos en la Av. Bolívar Norte, Sector La Alegría, Local 152-17, Valencia, Venezuela."
-modified: 2014-08-08T20:04:41.231140-04:00
-image:
-  feature: so-simple-sample-image-6.jpg
+modified: {}
+image: 
+  feature: "so-simple-sample-image-6.jpg"
   credit: Google Maps
-  creditlink: http://maps.google.com/maps?ll=10.221047,-68.009745&z=17&t=m&hl=es&gl=US&mapclient=embed&q=A%20%26%20B%20Total%2C%20C.A.
+  creditlink: "http://maps.google.com/maps?ll=10.221047,-68.009745&z=17&t=m&hl=es&gl=US&mapclient=embed&q=A%20%26%20B%20Total%2C%20C.A."
+published: true
 ---
 
 <iframe
@@ -15,7 +16,7 @@ image:
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBn_w9H7enz2EWDHnF8bfBYRNteCAxjQKE&q=A%20%26%20B%20Total%2C%20C.A.&center=10.221047,-68.009745&zoom=17&language=es">
 </iframe>
 
-Av. Bolívar Norte, Sector La Alegría, Local 152-17, Valencia, Venezuela. Telf. [0241-8257825](tel:+582418257825) / [0241-8252945](tel:+582418252945) e-mail: [aybtotaladm@gmail.com](mailto:aybtotaladm@gmail.com)
+Av. Bolívar Norte, Sector La Alegría, Local 152-17, Valencia, Venezuela. Telf. [0241-8257825](tel:+582418257825) / [0241-8252945](tel:+582418252945) e-mail: [aybtotal@gmail.com](mailto:aybtotal@gmail.com)
 
 ---
 
