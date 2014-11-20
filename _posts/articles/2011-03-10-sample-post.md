@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Sample Post
+title: "Llegó la Navidad!!!"
 author: alexander_salas
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+modified: {}
 categories: articles
-tags: [sample-post]
-image:
-  feature: corporate-image.jpg
+tags: 
+  - "sample-post"
+image: 
+  feature: "corporate-image.jpg"
   credit: Alexander Salas
-  creditlink: http://alexandersalas.name/
+  creditlink: "http://alexandersalas.name/"
 comments: true
 share: true
+published: true
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
