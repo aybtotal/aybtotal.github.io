@@ -16,7 +16,11 @@ published: true
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBn_w9H7enz2EWDHnF8bfBYRNteCAxjQKE&q=A%20%26%20B%20Total%2C%20C.A.&center=10.221047,-68.009745&zoom=17&language=es">
 </iframe>
 
-Av. Bolívar Norte, Sector La Alegría, Local 152-17, Valencia, Venezuela. Telf. [0241-8257825](tel:+582418257825) / [0241-8252945](tel:+582418252945) e-mail: [aybtotal@gmail.com](mailto:aybtotal@gmail.com)
+Av. Bolívar Norte, Sector La Alegría, Local 152-17, Valencia, Venezuela. 
+
+Telf. [0241-8257825](tel:+582418257825) / [0241-8252945](tel:+582418252945) 
+
+e-mail: [aybtotal@gmail.com](mailto:aybtotal@gmail.com)
 
 ---
 
